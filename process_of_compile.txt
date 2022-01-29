@@ -1,0 +1,6 @@
+1 - IDE (Write code)
+2 - Preprocessing 
+3 - Compile (Magic program) - Code object
+4 - Linker (Shared libraries) - Executable code
+5 - Loader 
+6 - CPU - input / Output 
